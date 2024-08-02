@@ -1,0 +1,342 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background: #0f0f10;
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+  }
+  /* navbaar */
+  #navbaar{
+    width: 100%;
+    height: 50px;
+    background-color: #0f0f10;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+  }
+  #rightnav{
+    background-color: #0f0f10;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 0;
+    
+  }
+  a{
+    font-weight: bold;
+    text-decoration: none;
+  }
+  button{
+    background-color: rgb(226, 14, 14);
+    border-radius: 4px;
+    box-shadow: 5px;
+    font-size: 15PX;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+  }
+  /* maincenter */
+  #maincenter{
+    display: flex;
+  }
+  #mainleft{
+    background-color: #0f0f10;
+    width: 35%;
+    
+  }
+  #studio3{
+    margin-left: 100px;
+  }
+  #mainright{
+    background-color: #0f0f10;
+    width: 65%;
+    
+  }
+  #onear{
+    margin-top: 30px;
+    margin-left: 250px;
+  }
+  #loramp{
+    width: 400px;
+    height: 500px;
+    background-color: #0f0f10;
+    margin-top: 30px;
+    margin-left: 250px;
+  }
+  #loram{
+    color: #9e9eae;
+  } 
+  #read{
+    height: 32px;
+  }
+  /* bitchlogo */
+  #bitchlogo{
+    background-color: #0f0f10;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  /* part2 */
+  #part2{
+    background-color: aqua;
+    width: 100%;
+    height: 600px;
+  }
+  #specs{
+    width: 100%;
+    height: 100px;
+    background-color: #0f0f10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 63px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #7b7676;
+  }
+  #div0{
+    width: 100%;
+    height: 600px;
+    background-color: #0f0f10;
+    display: flex;
+
+  }
+  #div1{
+    width: 60%;
+    height: 500px;
+    background-color: #0f0f10;
+  }
+  #bluthuth{
+    width: 90px;
+    height: 50px;
+    background-color: #0f0f10;
+    margin-top: 60px;
+    margin-left: 76%;
+    margin-top: 20%;
+
+  }
+  #bettery{
+    width: 70px;
+    height: 50px;
+    background-color: #0f0f10;
+    margin-left: 72%;
+    
+  }
+  #load{
+    width: 70px;
+    height: 50px;
+    background-color: #0f0f10;
+    margin-left: 76%;
+    margin-top: 1%;
+  }
+  #microphone{
+    width: 70px;
+    height: 70px;
+    background-color: #0f0f10;
+    margin-left: 74%;
+    margin-top: 0%;
+  }
+  #div2{
+    width: 40%;
+    height: 325px;
+    background-color: #0f0f10;
+    margin: 5%;
+  }
+  /* part3 */
+#part3{
+  width: 100%;
+  height: 609px;
+  background-color: #0f0f10;
+}
+#case{
+  width: 100%;
+  height: 110px;
+  background-color: #0f0f10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 63px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #7b7676;
+
+}
+#lr{
+  width: 100%;
+  height: 400px;
+  background-color: #fff;
+  display: flex;
+}
+#ll{
+   width: 46%;
+  height: 498px;
+  background-color: #0f0f10;
+  padding-top: 5%;
+  padding-left: 25%;
+
+}
+#rr{
+  width: 55%;
+  height: 498px;
+  background-color: #0f0f10;
+  padding: 12%;
+  padding-left: 0;
+
+}
+#text1{
+  width: 200px;
+  height: 200px;
+  font-size: small;
+  color: #938484;
+  
+  
+}
+#LOVE{
+  border-radius: 11%;
+  padding: 0.5%;
+  margin: 5%;
+  background-color: RED;
+}
+/* PART4 */
+#part4{
+  width: 100%;
+  height: 500px;
+  background-color: #0f0f10;
+  padding-top: 50px;
+  padding-left: 380px;
+}
+#cdiv{
+  width: 900px;
+  height: 400px;
+  display: flex;
+  
+
+}
+#div01{
+  width: 400px;
+  height: 400px;
+  background-color: #0f0f10;
+  padding: 7%;
+  padding-top: 140px;
+}
+#div02{
+  width: 500px;
+  height: 400px;
+  padding-top: 82px;
+}
+/* PART5 */
+#choose{
+  width: 100%;
+  height: 83px;
+  background-color: #0f0f10;
+  padding-left: 611px;
+  
+}
+#chooses{
+  color: #7b7676;
+  font-size: 35px;
+  font-weight: 100;
+  font-family: Verdana, Geneva, Tahoma, sans-serif      ;
+}
+#OPTION{
+  background-color: #0f0f10;
+  width: 100%;
+  height: 610px;
+  display: flex;
+}
+#div11{
+  width: 50%;
+  height: 600px;
+  background-color: #0f0f10;
+}
+
+#divmg1{
+  width: 211px;
+  height: 300px;
+  background-color: #0f0f10;
+  background-image: url(./blue.png);
+  background-position: center;
+  background-size: cover;
+  margin: 0%;
+  margin-left: 548px;
+  border: 7px,solid rgb(169, 164, 164);
+}
+#divmg2{
+  width: 211px;
+  height: 300px;
+  background-color: #0f0f10;
+  background-image: url(./redBlack.png);
+  background-position: center;
+  background-size: cover;
+  margin: 0.8%;
+  margin-left: 548px;
+  border: 7px,solid rgb(159, 157, 157);
+}
+#div22{
+  width: 50%;
+  height: 600px;
+  background-color: #0f0f10;
+}
+#divmg61{
+  width: 211px;
+  height: 300px;
+  background-color: #0f0f10;
+  background-image: url(./nightBlack\ \(1\).png);
+  background-position: center;
+  background-size: cover;
+  border: 7px,solid rgb(169, 164, 164);
+}
+#divmg62{
+  width: 211px;
+  height: 300px;
+  background-color: #0f0f10;
+  background-image: url(./twilightGray.png);
+  background-position: center;
+  background-size: cover;
+  border: 7px,solid rgb(169, 164, 164);
+}
+/* footer */
+#footer{
+  width: 100%;
+  height: 300px;
+  background-color: #0f0f10;
+  display: flex;
+  justify-content: space-around;
+}
+#f1{
+  width: 300px;
+  height: 300px;
+  background-color: #0f0f10;
+  padding: 4%;
+}
+li{
+  margin: 9%;
+  margin-left: 42%;
+  font-size: large;
+  font-style: oblique;
+  font-weight: 100 ;
+}
+#f2{
+  width: 300px;
+  height: 300px;
+  background-color: #0f0f10;
+  padding: 4%;
+  padding-top: 6%;
+}
+#f3{
+  width: 300px;
+  height: 300px;
+  background-color: #0f0f10;
+  padding: 4%;
+  padding-top: 6%;
+}
+#fff{
+  width: 100%;
+  height: 30px;
+  background-color: #999797;
+}
